@@ -1,5 +1,5 @@
 # Herodotus' Histories
-## Florian Klohn, 21 May 2022
+Florian Klohn, 21 May 2022
 
 <img src="p0_hist_wordcloud.png" style="width:80.0%" />
 
